@@ -4,17 +4,16 @@ Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on a 
-- 🌱 I’m currently learning .
+- 🔭 I’m currently pursuing my final year B.E. Computer Science and Engineering at Anna University.
+- 🌱 I’m very much interested in Artificial Intelligence, Machine Learning and Cyber Security.
 - 👯 I’m looking to collaborate on **open-source projects**.
-- 💬 Ask me about .
 - 📫 How to reach me: [darshanthekingmaker@gmail.com](mailto:darshanthekingmaker@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love watching movies and listening to music.
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: C, C++, Java, Golang, Python, JavaScript
+- **Languages**: C, C++, Java, Golang, Python, JavaScript, HTML, CSS
 - **Frameworks**: React, NodeJS, ExpressJS, Flutter
 - **Tools**: Git, Docker, Kubernetes, gRPC
 - **Databases**: MongoDB, MySQL, OracleSQL
